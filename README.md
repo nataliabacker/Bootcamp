@@ -1,1 +1,2 @@
-# Bootcamp-
+# Bootcamp
+Day 2
