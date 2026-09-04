@@ -17,7 +17,7 @@ void setup() {
 }
 
 void loop() {
-  delay(delayMS);
+  delay(1000);
   sensors_event_t event;
   dht.temperature().getEvent(&event);
   if (isnan(event.temperature)) {
